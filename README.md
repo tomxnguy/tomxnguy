@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello there 👋 I'm Thomas !
+[My LinkedIn](https://www.linkedin.com/in/tomxnguy/)
+
+🏠 Based in Los Angeles, California.
+💻 Software Engineer.
+🎯 Currently working on converting a Magic the Gathering Project from vanilla Javascript into React.
+📫 How to reach me: tomxnguy@gmail.com
+
 
 <!--
 **tomxnguy/tomxnguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
