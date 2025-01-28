@@ -1,10 +1,13 @@
 ### Hello there 👋 I'm Thomas !
 
 [My LinkedIn](https://www.linkedin.com/in/tomxnguy/) 
+[My Portfolio Website](https://tomnguyen-portfolio.vercel.app//) 
+
+- 🔭 Currently researching and trying to create an application that uses Jenkins to automate the build, test, and deployment process.
+
 
 - 🏠 Based in Los Angeles, California. 
 - 💻 Software Engineer. 
-- 🎯 Currently working on converting a Magic the Gathering Project from vanilla Javascript into React. 
 - 📫 How to reach me: tomxnguy@gmail.com 
 
 
