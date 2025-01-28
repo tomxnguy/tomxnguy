@@ -1,7 +1,7 @@
 ### Hello there 👋 I'm Thomas !
 
-[My LinkedIn](https://www.linkedin.com/in/tomxnguy/) 
-[My Portfolio Website](https://tomnguyen-portfolio.vercel.app//) 
+#[My LinkedIn](https://www.linkedin.com/in/tomxnguy/) 
+#[My Portfolio Website](https://tomnguyen-portfolio.vercel.app//) 
 
 - 🔭 Currently researching and trying to create an application that uses Jenkins to automate the build, test, and deployment process.
 
